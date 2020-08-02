@@ -30,7 +30,7 @@ print("Hello world")
 
 - bullet 1  
 - bullet 2 no ending spaces
-- bullet 3 
+
 - bullet 4  
 
 ## Including Plots
